@@ -50,7 +50,7 @@ namespace assignment_2_prep
             }
             catch
             {
-                MessageBox.Show("Try again you dafty");
+                MessageBox.Show("Try again you dafty"); 
             }
         }
     }
